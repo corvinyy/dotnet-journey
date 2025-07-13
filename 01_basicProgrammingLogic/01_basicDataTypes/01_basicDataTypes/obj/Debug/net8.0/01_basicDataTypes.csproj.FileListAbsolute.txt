@@ -1,0 +1,14 @@
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\bin\Debug\net8.0\01_basicDataTypes.exe
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\bin\Debug\net8.0\01_basicDataTypes.deps.json
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\bin\Debug\net8.0\01_basicDataTypes.runtimeconfig.json
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\bin\Debug\net8.0\01_basicDataTypes.dll
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\bin\Debug\net8.0\01_basicDataTypes.pdb
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\obj\Debug\net8.0\01_basicDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\obj\Debug\net8.0\01_basicDataTypes.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\obj\Debug\net8.0\01_basicDataTypes.AssemblyInfo.cs
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\obj\Debug\net8.0\01_basicDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\obj\Debug\net8.0\01_basicDataTypes.dll
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\obj\Debug\net8.0\refint\01_basicDataTypes.dll
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\obj\Debug\net8.0\01_basicDataTypes.pdb
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\obj\Debug\net8.0\01_basicDataTypes.genruntimeconfig.cache
+C:\Users\loren\Desktop\01_basicProgrammingLogic\01_basicDataTypes\01_basicDataTypes\obj\Debug\net8.0\ref\01_basicDataTypes.dll

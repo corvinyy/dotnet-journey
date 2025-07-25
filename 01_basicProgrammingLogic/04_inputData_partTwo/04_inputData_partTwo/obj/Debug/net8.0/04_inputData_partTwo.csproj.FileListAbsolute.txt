@@ -1,0 +1,14 @@
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\bin\Debug\net8.0\04_inputData_partTwo.exe
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\bin\Debug\net8.0\04_inputData_partTwo.deps.json
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\bin\Debug\net8.0\04_inputData_partTwo.runtimeconfig.json
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\bin\Debug\net8.0\04_inputData_partTwo.dll
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\bin\Debug\net8.0\04_inputData_partTwo.pdb
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\obj\Debug\net8.0\04_inputData_partTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\obj\Debug\net8.0\04_inputData_partTwo.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\obj\Debug\net8.0\04_inputData_partTwo.AssemblyInfo.cs
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\obj\Debug\net8.0\04_inputData_partTwo.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\obj\Debug\net8.0\04_inputData_partTwo.dll
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\obj\Debug\net8.0\refint\04_inputData_partTwo.dll
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\obj\Debug\net8.0\04_inputData_partTwo.pdb
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\obj\Debug\net8.0\04_inputData_partTwo.genruntimeconfig.cache
+C:\Users\loren\Desktop\01_basicProgrammingLogic\04_inputData_partTwo\04_inputData_partTwo\obj\Debug\net8.0\ref\04_inputData_partTwo.dll

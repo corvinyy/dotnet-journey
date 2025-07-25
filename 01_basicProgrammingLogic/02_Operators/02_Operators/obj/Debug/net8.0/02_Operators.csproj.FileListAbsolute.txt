@@ -1,0 +1,14 @@
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\bin\Debug\net8.0\02_Operators.exe
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\bin\Debug\net8.0\02_Operators.deps.json
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\bin\Debug\net8.0\02_Operators.runtimeconfig.json
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\bin\Debug\net8.0\02_Operators.dll
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\bin\Debug\net8.0\02_Operators.pdb
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\obj\Debug\net8.0\02_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\obj\Debug\net8.0\02_Operators.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\obj\Debug\net8.0\02_Operators.AssemblyInfo.cs
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\obj\Debug\net8.0\02_Operators.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\obj\Debug\net8.0\02_Operators.dll
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\obj\Debug\net8.0\refint\02_Operators.dll
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\obj\Debug\net8.0\02_Operators.pdb
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\obj\Debug\net8.0\02_Operators.genruntimeconfig.cache
+C:\Users\loren\Desktop\01_basicProgrammingLogic\02_Operators\02_Operators\obj\Debug\net8.0\ref\02_Operators.dll

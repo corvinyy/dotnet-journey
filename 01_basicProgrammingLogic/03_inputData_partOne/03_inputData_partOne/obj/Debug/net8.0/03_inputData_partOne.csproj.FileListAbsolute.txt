@@ -1,0 +1,14 @@
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\bin\Debug\net8.0\03_inputData_partOne.exe
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\bin\Debug\net8.0\03_inputData_partOne.deps.json
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\bin\Debug\net8.0\03_inputData_partOne.runtimeconfig.json
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\bin\Debug\net8.0\03_inputData_partOne.dll
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\bin\Debug\net8.0\03_inputData_partOne.pdb
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\obj\Debug\net8.0\03_inputData_partOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\obj\Debug\net8.0\03_inputData_partOne.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\obj\Debug\net8.0\03_inputData_partOne.AssemblyInfo.cs
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\obj\Debug\net8.0\03_inputData_partOne.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\obj\Debug\net8.0\03_inputData_partOne.dll
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\obj\Debug\net8.0\refint\03_inputData_partOne.dll
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\obj\Debug\net8.0\03_inputData_partOne.pdb
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\obj\Debug\net8.0\03_inputData_partOne.genruntimeconfig.cache
+C:\Users\loren\Desktop\01_basicProgrammingLogic\03_inputData_partOne\03_inputData_partOne\obj\Debug\net8.0\ref\03_inputData_partOne.dll

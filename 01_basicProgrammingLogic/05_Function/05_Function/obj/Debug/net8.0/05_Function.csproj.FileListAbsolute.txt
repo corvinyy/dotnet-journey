@@ -1,0 +1,15 @@
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\bin\Debug\net8.0\05_Function.exe
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\bin\Debug\net8.0\05_Function.deps.json
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\bin\Debug\net8.0\05_Function.runtimeconfig.json
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\bin\Debug\net8.0\05_Function.dll
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\bin\Debug\net8.0\05_Function.pdb
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\obj\Debug\net8.0\05_Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\obj\Debug\net8.0\05_Function.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\obj\Debug\net8.0\05_Function.AssemblyInfo.cs
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\obj\Debug\net8.0\05_Function.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\obj\Debug\net8.0\05_Function.sourcelink.json
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\obj\Debug\net8.0\05_Function.dll
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\obj\Debug\net8.0\refint\05_Function.dll
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\obj\Debug\net8.0\05_Function.pdb
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\obj\Debug\net8.0\05_Function.genruntimeconfig.cache
+C:\Users\loren\Desktop\dotnet-journey\01_basicProgrammingLogic\05_Function\05_Function\obj\Debug\net8.0\ref\05_Function.dll
